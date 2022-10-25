@@ -22,7 +22,7 @@
 <?php include("header.php"); ?>
     <form action="cifrapropio.php" method="post">
         <section class="form-register">
-            <h4>Formulario Registro RSA</h4>
+            <h4>Formulario Registro Propio</h4>
             <label for="nombre">Introduce tu nombre: </label>
             <input class="controls" type="text" name="nombre" id="nombre" placeholder="Ingrese su Nombre">
             <label for="apellido">Introduce tu primer apellido: </label>
