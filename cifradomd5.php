@@ -33,7 +33,7 @@
             <input class="controls" type="email" name="gmail" id="gmail" placeholder="Ingrese su Correo">
             <label for="pass">Introduce tu contraseña: </label>
             <input class="controls" type="password" name="pass" id="pass" placeholder="Ingrese su Contraseña">
-            <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
+            <p>Estoy de acuerdo con <a href="politicas.html">Terminos y Condiciones</a></p>
             <input class="botons" type="submit" value="Registrar" >
         </section>
     </form>
