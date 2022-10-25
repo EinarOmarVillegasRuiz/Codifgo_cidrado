@@ -1,6 +1,6 @@
 
 <ul class="menu" style="max-width: 67%;">
-    <li><a href="portada.html">Portada</a></li>
+    <li><a href="portada.php">Portada</a></li>
     <li><a href="cifradoaes.php">Simétrico</a></li>
     <li><a href="cifradorsa.php">Asimétrico</a></li>
     <li><a href="cifradomd5.php">Hash - V1</a></li>
