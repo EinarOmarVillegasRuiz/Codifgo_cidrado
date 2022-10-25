@@ -35,7 +35,7 @@
             <input class="controls" type="password" name="pass" id="pass" placeholder="Ingrese su Contraseña">
             <label for="llave">Introduce tu llave secreta: </label>
             <input class="controls" type="text" name="publica" id="publica" placeholder="Ingrese su llave secreta">
-            <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
+            <p>Estoy de acuerdo con <a href="politicas.html">Terminos y Condiciones</a></p>
             <input class="botons" type="submit" value="Registrar" >
         </section>
     </form>
